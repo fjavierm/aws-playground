@@ -35,6 +35,11 @@
       <artifactId>s3</artifactId>
     </dependency>
 
+    <dependency>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>sqs</artifactId>
+    </dependency>
+
     <!-- Avoid warnings -->
     <dependency>
       <groupId>org.slf4j</groupId>
